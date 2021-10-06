@@ -13,7 +13,7 @@
 
 body {
   align-items: center;
-  background: hsl(225, 100%, 94%) url(/images/pattern-background-desktop.svg)
+  background: hsl(225, 100%, 94%) url(./images/pattern-background-desktop.svg)
     no-repeat;
   background-size: 100% 50%;
   display: flex;
@@ -46,7 +46,7 @@ p {
   grid-area: picture;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
-  background: url(/images/illustration-hero.svg);
+  background: url(./images/illustration-hero.svg);
   background-size: cover;
   height: 220px;
 }
